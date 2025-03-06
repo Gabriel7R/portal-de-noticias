@@ -3,7 +3,7 @@
   display: grid;
 }
 
-.grid-flw-col{
+.grid-flow-col{
   grid-auto-flow: column;
 }
 
@@ -11,6 +11,7 @@
   grid-template-columns: 1fr 1fr;
   gap: 8px;
 }
+
 
 .gap-16{
   gap: 16px;
@@ -33,3 +34,4 @@
 .text-sm{
   font: var(--text-sm)
 }
+
